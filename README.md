@@ -18,4 +18,4 @@
 | 14 | 14/10/2024        | Olímpico (LB)        | 89  | 86  | Regatas (C)        |
 | 15 | 14/10/2024        | Boca        | 99  | 72  | Unión (SF)         |
 | 16 | 15/10/2024        | Platense        | 83  | 87  | Independiente (O) |
-| 17 | 15/10/2024        | La Unión FSA.        | 79  | 85  | INstituto         |
+| 17 | 15/10/2024        | La Unión FSA.        | 79  | 85  | Instituto         |
