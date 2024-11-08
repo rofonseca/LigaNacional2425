@@ -4,6 +4,10 @@
 |-------|----------------------|----------------------|-------|-------|------------------------|
 | 1 | 07/10/2024        | Atenas (C)        | 69  | 81  | Boca         |
 | 2 | 08/10/2024        | Obras        | 94  | 90  | Platense         |
-| 3 | 08/10/20243        | Instituto        | 99  | 73  | Olimpico (LB)         |
-| 4 | Contenido 1.4        | Contenido 2.4        | C3.4  | C4.4  | Contenido 5.4         |
-| 5 | Contenido 1.5        | Contenido 2.5        | C3.5  | C4.5  | Contenido 5.5         |
+| 3 | 08/10/2024        | Instituto        | 99  | 73  | Olímpico (LB)         |
+| 4 | 08/10/2024        | Unión (SF)        | 68  | 63  | San Lorenzo         |
+| 5 | 09/10/2024        | Ferro        | 84  | 82  | Peñarol (MLP)         |
+| 6 | 10/10/2024        | Independiente (O)        | 104  | 72  | Olímpico (LB)         |
+| 7 | 11/10/2024        | Gimsasia (CR)        | 89  | 91  | Obras         |
+| 8 | 11/10/2024        | Regatas (C)        | 82  | 77  | Instituto         |
+| 9 | 11/10/2024        | Platense        | 72  | 75  | Peñarol (MDP)         |
