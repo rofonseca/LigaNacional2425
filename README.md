@@ -11,3 +11,11 @@
 | 7 | 11/10/2024        | Gimsasia (CR)        | 89  | 91  | Obras         |
 | 8 | 11/10/2024        | Regatas (C)        | 82  | 77  | Instituto         |
 | 9 | 11/10/2024        | Platense        | 72  | 75  | Peñarol (MDP)         |
+| 10 | 12/10/2024        | Boca        | 88  | 61  | Zárate Basquet         |
+| 11 | 13/10/2024        | Gimsasia (CR)        | 97  | 83  | Independiente (O)         |
+| 12 | 13/10/2024        | San Martin (C)        | 54  | 76  | Instituto         |
+| 13 | 14/10/2024        | Peñarol (MDP)        | 78  | 97  | Regatas (C)         |
+| 14 | 14/10/2024        | Olímpico (LB)        | 89  | 86  | Regatas (C)        |
+| 15 | 14/10/2024        | Boca        | 99  | 72  | Unión (SF)         |
+| 16 | 15/10/2024        | Platense        | 83  | 87  | Independiente (O) |
+| 17 | 15/10/2024        | La Unión FSA.        | 79  | 85  | INstituto         |
