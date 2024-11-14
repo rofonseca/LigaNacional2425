@@ -19,3 +19,6 @@
 | 15 | 14/10/2024        | Boca        | 99  | 72  | Unión (SF)         |
 | 16 | 15/10/2024        | Platense        | 83  | 87  | Independiente (O) |
 | 17 | 15/10/2024        | La Unión FSA.        | 79  | 85  | Instituto         |
+| 18 | 16/10/2024        | Ferro        | 72  | 77  | Unión (SF)         |
+| 19 | 16/10/2024        | Argentino (J)        | 67  | 76  | Oberá         |
+| 20 | 16/10/2024        | Quimsa        | 103  | 85  | Regatas (C)         |

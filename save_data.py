@@ -7,10 +7,10 @@ sys.path.append('./fun/')
 import more_functions
 
 # Fecha
-date = '15/10/2024'
+date = '16/10/2024'
 
 # partido número
-num = 17
+num = 20
 
 # local
 path = 'liga_data_0.csv'
