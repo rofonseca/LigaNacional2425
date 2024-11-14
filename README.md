@@ -22,3 +22,13 @@
 | 18 | 16/10/2024        | Ferro        | 72  | 77  | Unión (SF)         |
 | 19 | 16/10/2024        | Argentino (J)        | 67  | 76  | Oberá         |
 | 20 | 16/10/2024        | Quimsa        | 103  | 85  | Regatas (C)         |
+| 21 | 17/10/2024        | Zárate Basquet        | 71  | 72  | Independiente (O)        |
+| 22 | 17/10/2024        | Olímpico (LB)        | 93  | 74  | Boca         |
+| 23 | 18/10/2024        | Argentino (J)        | 67  | 69  | Unión (SF)         |
+| 24 | 18/10/2024        | Riachuelo (LR)        | 99  | 58  | Regatas (C)         |
+| 25 | 18/10/2024        | Ferro        | 85  | 83  | Obras         |
+| 26 | 19/10/2024        | Quimsa        | 97  | 67  | Boca         |
+| 27 | 21/10/2024        | Argentino (J)       | 83  | 85  | Peñarol (MDP)         |
+| 28 | 21/10/2024        | Riachuelo (LR)       | 75  | 80  | Boca         |
+| 29 | 21/10/2024        | Atenas (C)       | 74  | 87  | Instituto         |
+# segruir desde el 22/10 union (SF) 103 96 platense
