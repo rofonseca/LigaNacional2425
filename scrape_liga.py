@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
-URL = "https://estadisticascabb.gesdeportiva.es/partido/DJbEr7vc1RRYM0eWUZ_rHQ==?a=1"
+URL = "https://estadisticascabb.gesdeportiva.es/partido/5_ZI3Hpq2rCljsZ6wAKZCg==?a=1"
 
 # Set up Chrome options
 chrome_options = Options()
